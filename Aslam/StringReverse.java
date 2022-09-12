@@ -24,7 +24,7 @@ return s;
 }
 
 public static void main(String[] args){
-String s="i.like.this.program.very.much";
+String s="i.like.this.program.very.much.";
 char p[]=reverseWords(s.toCharArray());
 System.out.print(p);
 }
